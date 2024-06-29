@@ -38,10 +38,3 @@ CoPilot:
 | Imagem | Criar uma imagem que inspire inovação tecnológica e computação paralela com linguagem C# em um ambiente futurista. Adicione alguns elementos de inteligência artificial. Adicione uma rede neural em segundo plano. |
 
 
-## Estatísticas
-
-<div>
-<a href="https://github.com/mersobap">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mersobap&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=mersobap&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
