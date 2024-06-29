@@ -1,7 +1,7 @@
 # C-Turbocharged: Dominando os princípios da Computação Paralela 
 E-Book criado em combinação com o uso de IA para imagens e estruturação, conteúdo resumido criado e diagramado pelo autor.
 
-<p><div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /></div></p>
+<p><div align="center"><img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /></div></p>
 
 
 ## Sobre o projeto: 
